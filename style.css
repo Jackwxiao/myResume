@@ -57,7 +57,7 @@ header{
       text-align: center;
       padding-top:25px;
       padding-bottom: 10px;
-      background: #444;
+      background:#323643;
       color:#fff;
     }
     header img{
@@ -86,7 +86,7 @@ header{
       display: block;
       width: 30px;
       height:30px;
-      background:#66a9a3;
+      background:#1ABB9C;
       border-radius:50%;
       font-size:20px;
       text-align:center;
@@ -102,7 +102,7 @@ header{
       grid-column:3;
       border:none;
       height:3px;
-      background: #66a9a3;
+      background: #1ABB9C;
     }
     section > .detail{
       grid-column: 2/span 2;
