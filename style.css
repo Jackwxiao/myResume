@@ -30,11 +30,6 @@ aside{
       grid-row: 2;
     }
 
-/* @media (max-width: 1000px){
-    body{
-        grid: 100px 400px / 1fr 200px 400px 1fr;
-        }
-      } */
 @media (max-width:768px){
         body{
           grid: auto auto auto / 1fr;
